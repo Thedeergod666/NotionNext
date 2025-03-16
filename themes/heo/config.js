@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到uu5u的博客', url: 'https://225255.xyz' },
-    { title: 'Have a good time', url: 'https://225255.xyz' }
+    { title: 'Have a good time~', url: 'https://225255.xyz' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -25,7 +25,7 @@ const CONFIG = {
   HEO_HERO_TITLE_5: '访问悠GN-NOTION',
   HEO_HERO_TITLE_LINK: 'https://uu5u.notion.site',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: '随机博客',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -119,7 +119,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击链接加入群聊【悠gn官方发布处】',
+  HEO_SOCIAL_CARD_TITLE_3: '点击链接加入群聊\n【悠gn官方发布处】',
   HEO_SOCIAL_CARD_URL: 'https://qm.qq.com/q/oqIgDDwpY6',
 
   // 底部统计面板文案
