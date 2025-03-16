@@ -18,14 +18,14 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享所见',
-  HEO_HERO_TITLE_2: '与思维认知',
+  HEO_HERO_TITLE_1: '科技 数码 动漫',
+  HEO_HERO_TITLE_2: '所见 所想 所得',
   HEO_HERO_TITLE_3: '225255.xyz',
   HEO_HERO_TITLE_4: '悠GN怀旧版',
   HEO_HERO_TITLE_5: '访问悠GN-NOTION',
   HEO_HERO_TITLE_LINK: 'https://uu5u.notion.site',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随机博客',
+  HEO_HERO_COVER_TITLE: '随机blog',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -119,7 +119,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
   HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击链接加入群聊\n【悠gn官方发布处】',
+  HEO_SOCIAL_CARD_TITLE_3: '点击链接加入群聊</br>【悠gn官方发布处】',
   HEO_SOCIAL_CARD_URL: 'https://qm.qq.com/q/oqIgDDwpY6',
 
   // 底部统计面板文案
