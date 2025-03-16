@@ -18,8 +18,8 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '科技 数码 动漫',
-  HEO_HERO_TITLE_2: '所见 所想 所得',
+  HEO_HERO_TITLE_1: '科技 数码 动漫 |',
+  HEO_HERO_TITLE_2: '| 所见 所想 所得',
   HEO_HERO_TITLE_3: '225255.xyz',
   HEO_HERO_TITLE_4: '悠GN怀旧版',
   HEO_HERO_TITLE_5: '访问悠GN-NOTION',
