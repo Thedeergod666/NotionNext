@@ -37,18 +37,25 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '风を共に舞う気持ち',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
+      name: 'spiral',
+      artist: 'LONGMAN',
+      url: 'https://m802.music.126.net/20250326082158/277b33ec206a7f95adecd172a4f73dec/jd-musicrep-ts/94f6/a727/f954/ef0ae08c76b4fd3c2d8a11bfdfeafbc6.mp3?vuutv=5+qy7Jp5G1/KuQ0YIsu1O6/6/y9pqCliA+4rkx1PqKuR5sKM+k9FFvX34F9sCVPsu7XHrcFilyVMg78ro6IF2ynOiu8wg+rdyoi7bV8dhT0hEvSjO1mSHq4oBPoqDWEgiWPCzk/yvSy7y+NKzmj4EA==',
       cover:
-        'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://p3.music.126.net/nRBPxAvRVbb20PaBvL7PNg==/109951168691905184.jpg?param=320y320'
     },
     {
-      name: '王都グランセル',
-      artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731355.mp3',
+      name: '系ぎて',
+      artist: 'Rintaro Soma',
+      url: 'https://music.163.com/song/media/outer/url?id=2134851870.mp3',
       cover:
-        'https://p1.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+        'https://p3.music.126.net/EtWEUynPmWAxhgj76eyaog==/109951169484084690.jpg?param=320y320
+    },
+    {
+      name: 'コネクト',
+      artist: 'ClariS',
+      url: 'https://music.163.com/song/media/outer/url?id=536622994.mp3',
+      cover:
+        'https://p3.music.126.net/8yRbrWndyoHCJERNxCa6iA==/109951165048947194.jpg?param=320y320'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
