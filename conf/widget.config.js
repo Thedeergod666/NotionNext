@@ -39,7 +39,7 @@ module.exports = {
     {
       name: 'spiral',
       artist: 'LONGMAN',
-      url: 'https://m802.music.126.net/20250326082158/277b33ec206a7f95adecd172a4f73dec/jd-musicrep-ts/94f6/a727/f954/ef0ae08c76b4fd3c2d8a11bfdfeafbc6.mp3?vuutv=5+qy7Jp5G1/KuQ0YIsu1O6/6/y9pqCliA+4rkx1PqKuR5sKM+k9FFvX34F9sCVPsu7XHrcFilyVMg78ro6IF2ynOiu8wg+rdyoi7bV8dhT0hEvSjO1mSHq4oBPoqDWEgiWPCzk/yvSy7y+NKzmj4EA==',
+      url: 'https://m802.music.126.net/20250326082158/277b33ec206a7f95adecd172a4f73dec/jd-musicrep-ts/94f6/a727/f954/ef0ae08c76b4fd3c2d8a11bfdfeafbc6.mp3',
       cover:
         'https://p3.music.126.net/nRBPxAvRVbb20PaBvL7PNg==/109951168691905184.jpg?param=320y320'
     },
