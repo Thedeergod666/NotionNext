@@ -37,6 +37,13 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     
+    // {
+    //   name: 'spiral',
+    //   artist: 'LONGMAN',
+    //   url: 'https://m802.music.126.net/20250326082158/277b33ec206a7f95adecd172a4f73dec/jd-musicrep-ts/94f6/a727/f954/ef0ae08c76b4fd3c2d8a11bfdfeafbc6.mp3',
+    //   cover:
+    //     'https://p3.music.126.net/nRBPxAvRVbb20PaBvL7PNg==/109951168691905184.jpg?param=320y320'
+    // },
     {
       name: '系ぎて',
       artist: 'Rintaro Soma',
