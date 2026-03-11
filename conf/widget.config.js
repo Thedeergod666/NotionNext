@@ -49,7 +49,7 @@ module.exports = {
       artist: 'Rintaro Soma',
       url: 'https://music.163.com/song/media/outer/url?id=2134851870.mp3',
       cover:
-        'https://p3.music.126.net/EtWEUynPmWAxhgj76eyaog==/109951169484084690.jpg?param=320y320
+        'https://p3.music.126.net/EtWEUynPmWAxhgj76eyaog==/109951169484084690.jpg?param=320y320'
     },
     {
       name: 'コネクト',
